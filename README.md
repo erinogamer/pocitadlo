@@ -1,6 +1,8 @@
 
 > Otvoriť túto stránku na [https://erinogamer.github.io/pocitadlo/](https://erinogamer.github.io/pocitadlo/)
 
+I make all of this in MakeCode JavaScript, Python, or Blocks. I use more of them because i can convert them.
+
 ## Použiť ako rozšírenie
 
 Tento odkladací priestor možno pridať ako **rozšírenie** v aplikácii MakeCode.
